@@ -24,7 +24,7 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 02 - Visualização da tabela<br>
-<img src="../assets/case1-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case1-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
@@ -45,14 +45,14 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 03 - Primeira busca<br>
-<img src="../assets/case2-1.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case2-1.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 04 - Segunda busca<br>
-<img src="../assets/case1-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case1-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
@@ -71,14 +71,14 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 05 - Primeira busca pelo número inexistente<br>
-<img src="../assets/case3-1.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case3-1.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 06 - Segunda busca pelo número inexistente<br>
-<img src="../assets/case3-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case3-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
@@ -98,14 +98,14 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 07 - Inserção de Itens que colidem<br>
-<img src="../assets/case4-1.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case4-1.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 08 - Visualização da tabela impressa<br>
-<img src="../assets/case4-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case4-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
@@ -124,28 +124,28 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 09 - Input para impressão da tabela<br>
-<img src="../assets/case5-1.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case5-1.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 10 - Parte 1 da tabela<br>
-<img src="../assets/case5-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case5-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 11 - Parte 2 da tabela<br>
-<img src="../assets/case5-3.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case5-3.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
 <p align="center">
 <br>
 Figura 12 - Parte 3 da tabela<br>
-<img src="../assets/case5-4.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case5-4.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
