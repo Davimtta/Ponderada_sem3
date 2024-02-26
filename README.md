@@ -110,7 +110,7 @@ Fonte: Elaborado pelo autor.
 </p>
 
 
-# Caso de Teste 5: Impressão de tabela hash
+# Caso de Teste 5: Impressão de tabela hash vazia
 - <b>Pré-condição: </b> Inicializar o código da tabela hash e não adicionar ítens na tabela
 - <b>Etapas do Teste: </b> 
     * Imprimir a tabela vazia
