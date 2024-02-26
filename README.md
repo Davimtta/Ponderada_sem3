@@ -52,7 +52,7 @@ Fonte: Elaborado pelo autor.
 <p align="center">
 <br>
 Figura 04 - Segunda busca<br>
-<img src="./assets/case1-2.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case2-2.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
