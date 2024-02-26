@@ -17,7 +17,7 @@
 <p align="center">
 <br>
 Figura 01 - Inicialização do código<br>
-<img src="../assets/case1-1.png" style="display: block; margin: auto;"></img>
+<img src="./assets/case1-1.png" style="display: block; margin: auto;"></img>
 Fonte: Elaborado pelo autor.
 </p>
 
